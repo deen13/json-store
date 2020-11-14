@@ -24,7 +24,7 @@
       {
         "icon": "mdi-toolbox",
         "title": "Tools",
-        "subtitle": "Nuxt.js, Spring Boot"
+        "subtitle": "Nuxt.js, Spring Boot, Websockets"
       },
       {
         "divider": true,
@@ -50,7 +50,7 @@
     "year": 2019,
     "company": "Smartsquare GmbH",
     "title": "Parkhausverwaltung",
-    "description": "Im Zuge der Digitalisierung haben wir die Verwaltung von Parkhäusern in die Cloud gebracht. Neben der Analyse über die Auslastung und Wirtschaftlichkeit für die Betreiber können die Endkunden dort nun via Paypal, Apple Pay und Google Pay bezahlen.",
+    "description": "Im Zuge der Digitalisierung haben wir eine Cloud-Platform zur Verwaltung von Parkanlagen entwickelt. Neben den wirtschaftlichen Kennzahlen für die Betreiber haben wir es den Endkunden ermöglicht im Parkaus nun gemütlich via Paypal, Apple Pay oder Google Pay zu bezahlen.",
     "tags": [
       "Smart Parking",
       "IoT"
