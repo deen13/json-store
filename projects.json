@@ -146,7 +146,7 @@
       {
         "icon": "mdi-toolbox",
         "title": "Tools",
-        "subtitle": "Spock, Spring MVC"
+        "subtitle": "Spring MVC, Thymeleaf, Bootstrap"
       }
     ]
   },
