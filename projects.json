@@ -15,7 +15,16 @@
       {
         "icon": "mdi-code-braces",
         "title": "Sprachen",
-        "subtitle": "Kotlin, Javascript, Nuxt.js, Spring Boot"
+        "subtitle": "Kotlin, Javascript"
+      },
+      {
+        "divider": true,
+        "inset": true
+      },
+      {
+        "icon": "mdi-toolbox",
+        "title": "Tools",
+        "subtitle": "Nuxt.js, Spring Boot"
       },
       {
         "divider": true,
@@ -53,7 +62,16 @@
       {
         "icon": "mdi-code-braces",
         "title": "Sprachen",
-        "subtitle": "Kotlin, Javascript, Vert.X, Vue.js"
+        "subtitle": "Kotlin, Javascript, Typescript"
+      },
+      {
+        "divider": true,
+        "inset": true
+      },
+      {
+        "icon": "mdi-toolbox",
+        "title": "Tools",
+        "subtitle": "Vert.X, Vue.js, Spring Boot, Testcontainers"
       },
       {
         "divider": true,
@@ -149,7 +167,16 @@
       {
         "icon": "mdi-code-braces",
         "title": "Sprachen",
-        "subtitle": "Java, Javascript, OpenUI5"
+        "subtitle": "Java, Javascript"
+      },
+      {
+        "divider": true,
+        "inset": true
+      },
+      {
+        "icon": "mdi-toolbox",
+        "title": "Tools",
+        "subtitle": "OpenUI5"
       }
     ]
   }
