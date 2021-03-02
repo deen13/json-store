@@ -1,5 +1,52 @@
 [
   {
+    "year": 2021,
+    "company": "Smartsquare GmbH",
+    "title": "KI basierte Prozessoptimierung",
+    "description": "Während des Jahreswechsels durfte ich einem unserer Partner beratend zur Seite stehen, um die Qualitätssicherung voranzutreiben, technische Schulden zu reduzieren und neue Features zu implementieren. Damit haben wir gemeinsam eine gute Basis geschaffen, um die Features zukünftig in schnelleren Iterationen zu liefern.",
+    "tags": [
+      "Machine Learning",
+      "IoT"
+    ],
+    "details": [
+      {
+        "header": "Technologien"
+      },
+      {
+        "icon": "mdi-code-braces",
+        "title": "Sprachen",
+        "subtitle": "Kotlin, Javascript"
+      },
+      {
+        "divider": true,
+        "inset": true
+      },
+      {
+        "icon": "mdi-toolbox",
+        "title": "Tools",
+        "subtitle": "Nuxt.js, Spring Integration"
+      },
+      {
+        "divider": true,
+        "inset": true
+      },
+      {
+        "icon": "mdi-database",
+        "title": "Data Management",
+        "subtitle": "PostgreSQL"
+      },
+      {
+        "divider": true,
+        "inset": true
+      },
+      {
+        "icon": "mdi-truck-delivery",
+        "title": "Operations",
+        "subtitle": "Amazon Web Services"
+      }
+    ]
+  },
+  {
     "year": 2020,
     "company": "Smartsquare GmbH",
     "title": "Infrastruktur Monitoring",
